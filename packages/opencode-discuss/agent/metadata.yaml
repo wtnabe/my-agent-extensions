@@ -1,8 +1,0 @@
-name: discuss
-
-deploy_to: opencode
-
-static:
-  agents:
-    opencode:
-      mode: primary
