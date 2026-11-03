@@ -1,0 +1,4 @@
+name: sketch-system-overview
+
+adaptive:
+  disable-model-invocation: true
